@@ -1,0 +1,61 @@
+1. Create various types of NumPy arrays:
+a) Basic ndarray                        
+b) Array of zeros
+c) Array of ones                        
+d) Random numbers in ndarray
+e) An array of your choice        
+f) Imatrix in NumPy
+g) Evenly spaced ndarray
+
+2. Explore the Shape and Reshaping of NumPy Array:
+a. Dimensions of NumPy array   
+b. Shape of NumPy array
+c. Size of NumPy array               
+d. Reshaping a NumPy array
+e. Flattening a NumPy array       
+f. Transpose of a NumPy array
+
+3. Write a Python Program for illustrating:
+a. Slicing 1-D NumPy arrays
+b. Slicing 2-D NumPy arrays
+c. Slicing 3-D NumPy arrays
+d. Negative slicing of NumPy arrays
+     
+
+4. Perform following operations using pandas
+ a. Creating dataframe                 
+ b. concat()
+ c. Setting conditions                    
+ d. Adding a new column
+
+5. Read the following file formats using pandas
+ a. Text files     
+ b. CSV files       
+ c. Excel files      
+ d. JSON files
+
+6. Read the following file formats
+ a. Pickle files
+b. Image files using PIL
+c. Multiple files using Glob
+d. Importing data from database
+
+
+7. Demonstrate web scraping using python
+
+8. Perform following preprocessing techniques on loan prediction dataset
+a. Feature Scaling                          
+b. Feature Standardization
+c. Label Encoding                          
+d. One Hot Encoding
+
+9. Perform following visualizations using matplotlib
+a. Bar Graph                                 
+b. Pie Chart                             
+c. Line Chart and Subplots           
+d. Scatter Plot
+
+10. Write a Python program to implement a text classification task using Python,
+    Scikit-learn, and NLTK, where we preprocess text data,
+    extract features using TF-IDF vectorization, train a Naive Bayes classifier,
+    and evaluate its performance on a sample text dataset.

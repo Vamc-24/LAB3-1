@@ -1,0 +1,11 @@
+{
+    "NAme": "A",
+    "Age": 40,
+    "City": "Tirupati",
+    "Haschildren": false,
+    "Hobbies": [
+        "Reading",
+        "Travelling",
+        "Swimming"
+    ]
+}
