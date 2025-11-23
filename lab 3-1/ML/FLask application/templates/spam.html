@@ -1,0 +1,12 @@
+<h3>Spam Detection</h3>
+
+<form method="post">
+    Message: <input name="msg" />
+    <button type="submit">Predict</button>
+</form>
+
+{% if pred %}
+<p><b>Result:</b> {{ pred }}</p>
+{% endif %}
+
+<a href="/">Back</a>

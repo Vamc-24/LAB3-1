@@ -1,0 +1,14 @@
+<h3>Medical Diagnosis</h3>
+<p>Enter two feature values:</p>
+
+<form method="post">
+    Feature 1: <input name="f1" /><br>
+    Feature 2: <input name="f2" /><br>
+    <button type="submit">Predict</button>
+</form>
+
+{% if pred %}
+<p><b>Diagnosis:</b> {{ pred }}</p>
+{% endif %}
+
+<a href="/">Back</a>

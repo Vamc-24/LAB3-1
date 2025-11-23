@@ -1,0 +1,13 @@
+<h3>Credit Risk Prediction</h3>
+
+<form method="post">
+    Income: <input name="income" /><br>
+    Loan Amount: <input name="loan" /><br>
+    <button type="submit">Predict</button>
+</form>
+
+{% if pred %}
+<p><b>Risk:</b> {{ pred }}</p>
+{% endif %}
+
+<a href="/">Back</a>
