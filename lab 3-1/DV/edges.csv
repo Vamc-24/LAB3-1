@@ -1,0 +1,15 @@
+Source,Target,Weight
+Cat_X,Cat_Y,9
+Cat_X,Cat_Z,7
+Cat_Y,Cat_X,10
+Cat_Y,Cat_Z,3
+Cat_Z,Cat_X,7
+Cat_Z,Cat_Y,2
+Entity_1,Cat_Y,18
+Entity_2,Cat_Y,6
+Entity_3,Cat_Z,16
+Entity_4,Cat_X,19
+Entity_5,Cat_Y,12
+Entity_6,Cat_Y,8
+Entity_7,Cat_Z,16
+Entity_8,Cat_Z,16
